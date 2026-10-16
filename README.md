@@ -13,6 +13,8 @@ El servidor ya viene puesto en la lista de servidores.
 ## Qué lleva
 
 - **Simple Voice Chat**: chat de voz por proximidad (tecla V para hablar).
+- **CraftTerra Armaduras**: las piezas 3D de las armaduras legendarias (alas, tentáculos, capas, hombreras...)
+  pegadas al cuerpo. Sin él se ven las armaduras, pero sin esas piezas.
 - **Nuit**: los cielos especiales del servidor.
 - **Sodium, Lithium y más**: muchos más FPS y menos tirones.
 - **Iris + Complementary Reimagined**: shaders (opcionales).
